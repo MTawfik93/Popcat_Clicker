@@ -6,7 +6,7 @@ Create an Environment either with conda or virtualenv or any other, then activat
 
 Run the code using 
 
-```python3 clickerbot.py```
+```python clickerbot.py```
 
 The code uses Google Chrome as a default browser, in case if you want to change it, download the new browser's driver and add it to the lib directory, change the path line 3
 
